@@ -32,6 +32,8 @@ social:
   #  url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/uoa-eresearch
+  - title: tumblr
+    url: http://uoahackyhour.tumblr.com
 
 # Postal address (add as many lines as necessary)
 address:
