@@ -1,8 +1,8 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: HackyHour@Auckland
+email: eresearch@auckland.ac.nz
+url: https://uoa-eresearch.github.io/HackyHour
+description: "Building a community to help share the latest tools and research best practice. Also hacking on bits of code and data."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -15,8 +15,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright:  eResearch @ Auckland
+  location: Centre for eResearch - The University of Auckland
   social: Around the Web
   credits: Credits
 
@@ -35,8 +35,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Centre for eResearch
+  - line: University of Auckland
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
