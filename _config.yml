@@ -15,8 +15,8 @@ color:
 
 # Footer settings
 footer:
-  copyright:  eResearch @ Auckland
-  location: Centre for eResearch - The University of Auckland
+  copyright:  CC-BY
+  location: 
   social: Around the Web
   credits: Credits
 
@@ -36,9 +36,9 @@ social:
     url: http://uoahackyhour.tumblr.com
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: Centre for eResearch
-  - line: University of Auckland
+##address:
+#  - line: Centre for eResearch
+ # - line: University of Auckland
 
 # Credits content
 credits: ''
