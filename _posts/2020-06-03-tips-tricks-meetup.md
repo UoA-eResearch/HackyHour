@@ -28,4 +28,4 @@ More sessions will be announced soon.
 
 _Interested?_ Join the Hacky Hour@Auckland Slack chat room to get reminders for upcoming sessions. More than 260 students and researchers at the University are already there!
 
-<a href="https://uoacer.slack.com" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>
+<a href="https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>
