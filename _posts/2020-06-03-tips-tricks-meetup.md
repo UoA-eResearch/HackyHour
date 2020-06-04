@@ -18,7 +18,7 @@ These sessions are designed so postgraduate students and researchers at the Univ
 
 Each session will focus on a particular tool or data type: sometimes it’ll be an introduction and sometimes tips for the more adventurous users. Either way, it’ll be friendly and interactive. Sessions start with a quick presentation followed by an opportunity for the community to share their experiences and connect with others with similar interests or problems. Presenters are postgraduate students, researchers, and Centre for eResearch staff who wrangle these tools in the wild. 
 
-There's no need to register, just come along by going to the [Hacky Hour@Auckland Zoom meeting room](https://auckland.zoom.us/j/9328250646). All welcome! 
+There's no need to register, just come along by going to the [Hacky Hour@Auckland Zoom meeting room](https://auckland.zoom.us/j/9328250646) at the start time of each session. All welcome! 
 
 |                                    | Time             |
 |-------------------------------------------|------------------|
