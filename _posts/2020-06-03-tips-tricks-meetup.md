@@ -24,7 +24,7 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 |-------------------------------------------|------------------|
 | OpenRefine and Tidy Data                  | 11 June 2020, 3 - 4pm|
 | Python                                    | 25 June 2020, 3 - 4pm|
-| Social media data scrapping and wrangling | 9 July 2020, 3 - 4pm |
+| Social media data scraping and wrangling | 9 July 2020, 3 - 4pm |
 
 <p style="margin-top:-1em;margin-bottom:2em;"><em><a href="{{site.baseurl}}/static/tips-tricks-sessions.ics">Download as calendar events (.ics).</a></em></p>
 
