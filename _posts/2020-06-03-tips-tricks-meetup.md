@@ -30,4 +30,4 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 
 _Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 260 students and researchers at the University already there!
 
-<a href="https://uoacer.slack.com" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>
+<a href="https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>
