@@ -1,22 +1,24 @@
 ---
 layout: post
-title:  "Tools, Tips and Tricks Zoom Sessions"
-date:   2020-06-03 16:55:34 +1200
+title:  "Tools, tips & tricks - a new series for Hacky Hour!"
+permalink: /tips-tricks-sessions/
 ---
 
 Kia ora!
 
-*Have you got messy research data that you wish you could tidy up faster?*
+*Are you buried under a pile of messy research data?*
 
-*Is Python scripting bringing you down?*
+*Are Python errors making you regret your life choices?*
 
-Join us for informal online Tools, Tips and Tricks Zoom Sessions over the next few weeks! It's a series of online meetups for researchers at the University of Auckland to come together and share digital research skills in a friendly and accessible way.
+*Want to connect with others using the same tools?*
 
-Each session will focus on a particular tool or data type. It will start with a quick presentation followed by an opportunity for all to share their experiences and connect with others with similar interests
+Then join us for informal series of online **tools, tips & tricks** sessions over the next few weeks.
 
-The presentations will be made by postgraduate students and researchers who are working with the tools, and staff at Centre for eResearch who have worked with researchers using those tools.
+These sessions are designed so postgraduate students and researchers at the University of Auckland can come together and share digital research skills in an accessible way.
 
-These sessions will happen on the [Hacky Hour@Auckland Zoom meeting room](https://auckland.zoom.us/j/9328250646).
+Each session will focus on a particular tool or data type: sometimes it’ll be an introduction and sometimes tips for the more adventurous users. Either way, it’ll be friendly and interactive. Sessions start with a quick presentation followed by an opportunity for the community to share their experiences and connect with others with similar interests or problems. Presenters are postgraduate students, researchers, and Centre for eResearch staff who wrangle these tools in the wild. 
+
+There's no need to register, just come along by going to the [Hacky Hour@Auckland Zoom meeting room](https://auckland.zoom.us/j/9328250646). All welcome! 
 
 |                                    | Time             |
 |-------------------------------------------|------------------|
@@ -24,8 +26,8 @@ These sessions will happen on the [Hacky Hour@Auckland Zoom meeting room](https:
 | Python                                    | 25 June 2020, 3 - 4pm|
 | Social media data scrapping and wrangling | 9 July 2020, 3 - 4pm |
 
-More sessions will be announced soon. 
+<p style="margin-top:-1em;margin-bottom:2em;"><em><a href="/assets/tips-tricks-sessions.ics">Download as calendar events (.ics).</a></em></p>
 
-_Interested?_ Join the Hacky Hour@Auckland Slack chat room to get reminders for upcoming sessions. More than 260 students and researchers at the University are already there!
+_Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 260 students and researchers at the University already there!
 
 <a href="https://uoacer.slack.com" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>

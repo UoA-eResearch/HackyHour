@@ -1,0 +1,66 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Pacific/Auckland
+TZURL:http://tzurl.org/zoneinfo-outlook/Pacific/Auckland
+X-LIC-LOCATION:Pacific/Auckland
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+1200
+TZOFFSETTO:+1300
+TZNAME:NZDT
+DTSTART:19700927T020000
+RRULE:FREQ=YEARLY;BYMONTH=9;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+1300
+TZOFFSETTO:+1200
+TZNAME:NZST
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20200604T010621Z
+UID:20200604T010621Z-885801494@marudot.com
+DTSTART;TZID=Pacific/Auckland:20200611T150000
+DTEND;TZID=Pacific/Auckland:20200611T160000
+SUMMARY:OpenRefine and Tidy Data - Hacky Hour@Auckland Tools\, tips & tricks
+DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour!\n\nThese sessions are designed so postgraduate students and researchers at the University of Auckland can come together and share digital research skills in an accessible way.\n\nEach session will focus on a particular tool or data type: sometimes it’ll be an introduction and sometimes tips for the more adventurous users. Either way\, it’ll be friendly and interactive. Sessions start with a quick presentation followed by an opportunity for the community to share their experiences and connect with others with similar interests or problems. Presenters are postgraduate students\, researchers\, and Centre for eResearch staff who wrangle these tools in the wild.\n\nThere’s no need to register\, just come along by going to the Hacky Hour@Auckland Zoom meeting room. All welcome!
+LOCATION:https://auckland.zoom.us/my/hackyhour
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:OpenRefine and Tidy Data - Hacky Hour@Auckland Tools, tips & tricks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200604T010621Z
+UID:20200604T010621Z-415210729@marudot.com
+DTSTART;TZID=Pacific/Auckland:20200625T150000
+DTEND;TZID=Pacific/Auckland:20200625T160000
+SUMMARY:Python - Hacky Hour@Auckland Tools\, tips & tricks
+DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour! These sessions are designed so postgraduate students and researchers at the University of Auckland can come together and share digital research skills in an accessible way. Each session will focus on a particular tool or data type: sometimes it’ll be an introduction and sometimes tips for the more adventurous users. Either way\, it’ll be friendly and interactive. Sessions start with a quick presentation followed by an opportunity for the community to share their experiences and connect with others with similar interests or problems. Presenters are postgraduate students\, researchers\, and Centre for eResearch staff who wrangle these tools in the wild. There’s no need to register\, just come along by going to the Hacky Hour@Auckland Zoom meeting room. All welcome!
+LOCATION:https://auckland.zoom.us/my/hackyhour
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Python - Hacky Hour@Auckland Tools, tips & tricks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200604T010621Z
+UID:20200604T010621Z-13809560@marudot.com
+DTSTART;TZID=Pacific/Auckland:20200709T150000
+DTEND;TZID=Pacific/Auckland:20200709T160000
+SUMMARY:Social media data scrapping and wrangling - HackyHour@Auckland Tools\, tips & tricks
+DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour! These sessions are designed so postgraduate students and researchers at the University of Auckland can come together and share digital research skills in an accessible way. Each session will focus on a particular tool or data type: sometimes it’ll be an introduction and sometimes tips for the more adventurous users. Either way\, it’ll be friendly and interactive. Sessions start with a quick presentation followed by an opportunity for the community to share their experiences and connect with others with similar interests or problems. Presenters are postgraduate students\, researchers\, and Centre for eResearch staff who wrangle these tools in the wild. There’s no need to register\, just come along by going to the Hacky Hour@Auckland Zoom meeting room. All welcome!
+LOCATION:https://auckland.zoom.us/my/hackyhour
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Social media data scrapping and wrangling - HackyHour@Auckland Tools, tips & tricks
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
