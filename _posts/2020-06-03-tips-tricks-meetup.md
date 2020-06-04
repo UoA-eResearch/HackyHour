@@ -22,7 +22,7 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 
 |                                    | Time             |
 |-------------------------------------------|------------------|
-| OpenRefine and Tidy Data                  | 11 June 2020, 3 - 4pm|
+| Tidy up your data with OpenRefine         | 11 June 2020, 3 - 4pm|
 | Python                                    | 25 June 2020, 3 - 4pm|
 | Social media data scraping and wrangling | 9 July 2020, 3 - 4pm |
 
