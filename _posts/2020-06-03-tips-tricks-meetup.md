@@ -23,7 +23,7 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
 | Argggh, my data! An overview of using OpenRefine to tidy up data | 11 June 2020, 3 - 4pm|
-| Python - tips and trick                                          | 25 June 2020, 3 - 4pm|
+| Python - tips and trick I learnt during my PhD                   | 25 June 2020, 3 - 4pm|
 | Social media data scrapping and wrangling - tips and tricks      | 9 July 2020, 3 - 4pm |
 
 <p style="margin-top:-1em;margin-bottom:2em;"><em><a href="{{site.baseurl}}/static/tips-tricks-sessions.ics">Download as calendar events (.ics).</a></em></p>
