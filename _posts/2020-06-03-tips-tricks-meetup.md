@@ -27,7 +27,7 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
 | Python - tips and tricks I learnt during my PhD                   | 25 June 2020, 3 - 4pm|
-| Social media data scrapping and wrangling - tips and tricks      | 9 July 2020, 3 - 4pm |
+| Social media data scraping and wrangling - tips and tricks      | 9 July 2020, 3 - 4pm |
 | Generating publication-ready figures - tips and tricks           | 23 July 2020, 3 - 4pm|
 | NVIVO - overview                                                 | 6 August 2020, 3 - 4pm|
 | Machine-learning - NVIDIA DIGITS - overview                      | 20 August 2020, 3 - 4pm|
