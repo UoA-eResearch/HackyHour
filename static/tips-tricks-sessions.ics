@@ -22,8 +22,8 @@ RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20200622T025330Z
-UID:20200622T025330Z-2034063067@marudot.com
+DTSTAMP:20200622T213027Z
+UID:20200622T213027Z-1634220638@marudot.com
 DTSTART;TZID=Pacific/Auckland:20200625T150000
 DTEND;TZID=Pacific/Auckland:20200625T160000
 SUMMARY:Python - tips and trick I learnt during my PhD - Hacky Hour@Auckland Tools\, tips & tricks
@@ -31,8 +31,8 @@ DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour! These sessions 
 LOCATION:https://auckland.zoom.us/my/hackyhour
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200622T025330Z
-UID:20200622T025330Z-1985896464@marudot.com
+DTSTAMP:20200622T213027Z
+UID:20200622T213027Z-1422581368@marudot.com
 DTSTART;TZID=Pacific/Auckland:20200709T150000
 DTEND;TZID=Pacific/Auckland:20200709T160000
 SUMMARY:Social media data scrapping and wrangling - HackyHour@Auckland Tools\, tips & tricks
@@ -40,8 +40,8 @@ DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour! These sessions 
 LOCATION:https://auckland.zoom.us/my/hackyhour
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200622T025330Z
-UID:20200622T025330Z-1158228032@marudot.com
+DTSTAMP:20200622T213027Z
+UID:20200622T213027Z-1578666633@marudot.com
 DTSTART;TZID=Pacific/Auckland:20200723T150000
 DTEND;TZID=Pacific/Auckland:20200723T160000
 SUMMARY:Generating publication-ready figures - tips and tricks - HackyHour@Auckland Tools\, tips & tricks
@@ -49,8 +49,8 @@ DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour! These sessions 
 LOCATION:https://auckland.zoom.us/my/hackyhour
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200622T025330Z
-UID:20200622T025330Z-188992565@marudot.com
+DTSTAMP:20200622T213027Z
+UID:20200622T213027Z-106020045@marudot.com
 DTSTART;TZID=Pacific/Auckland:20200806T150000
 DTEND;TZID=Pacific/Auckland:20200806T160000
 SUMMARY:NVIVO - overview - HackyHour@Auckland Tools\, tips & tricks
@@ -58,8 +58,8 @@ DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour! These sessions 
 LOCATION:https://auckland.zoom.us/my/hackyhour
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200622T025330Z
-UID:20200622T025330Z-216101880@marudot.com
+DTSTAMP:20200622T213027Z
+UID:20200622T213027Z-212423204@marudot.com
 DTSTART;TZID=Pacific/Auckland:20200820T150000
 DTEND;TZID=Pacific/Auckland:20200820T160000
 SUMMARY:Machine-learning - NVIDIA DIGITS - overview - HackyHour@Auckland Tools\, tips & tricks
@@ -67,11 +67,20 @@ DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour! These sessions 
 LOCATION:https://auckland.zoom.us/my/hackyhour
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20200622T025330Z
-UID:20200622T025330Z-578932425@marudot.com
+DTSTAMP:20200622T213027Z
+UID:20200622T213027Z-2052143281@marudot.com
 DTSTART;TZID=Pacific/Auckland:20200903T150000
 DTEND;TZID=Pacific/Auckland:20200903T160000
 SUMMARY:Linux command line - tips and tricks - HackyHour@Auckland Tools\, tips & tricks
+DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour! These sessions are designed so postgraduate students and researchers at the University of Auckland can come together and share digital research skills in an accessible way. Each session will focus on a particular tool or data type: sometimes it’ll be an introduction and sometimes tips for the more adventurous users. Either way\, it’ll be friendly and interactive. Sessions start with a quick presentation followed by an opportunity for the community to share their experiences and connect with others with similar interests or problems. Presenters are postgraduate students\, researchers\, and Centre for eResearch staff who wrangle these tools in the wild. There’s no need to register\, just come along by going to the Hacky Hour@Auckland Zoom meeting room. All welcome!
+LOCATION:https://auckland.zoom.us/my/hackyhour
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20200622T213027Z
+UID:20200622T213027Z-619105423@marudot.com
+DTSTART;TZID=Pacific/Auckland:20200917T150000
+DTEND;TZID=Pacific/Auckland:20200917T160000
+SUMMARY:Qualtrics (survey tool) - overview - HackyHour@Auckland Tools\, tips & tricks
 DESCRIPTION:Tools\, tips & tricks - a new series for Hacky Hour! These sessions are designed so postgraduate students and researchers at the University of Auckland can come together and share digital research skills in an accessible way. Each session will focus on a particular tool or data type: sometimes it’ll be an introduction and sometimes tips for the more adventurous users. Either way\, it’ll be friendly and interactive. Sessions start with a quick presentation followed by an opportunity for the community to share their experiences and connect with others with similar interests or problems. Presenters are postgraduate students\, researchers\, and Centre for eResearch staff who wrangle these tools in the wild. There’s no need to register\, just come along by going to the Hacky Hour@Auckland Zoom meeting room. All welcome!
 LOCATION:https://auckland.zoom.us/my/hackyhour
 END:VEVENT

@@ -32,6 +32,7 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 | NVIVO - overview                                                 | 6 August 2020, 3 - 4pm|
 | Machine-learning - NVIDIA DIGITS - overview                      | 20 August 2020, 3 - 4pm|
 | Linux command line - tips and tricks                             | 3 September 2020, 3 - 4pm|
+| Qualtrics (survey tool) - overview                               | 17 September 2020, 3 - 4pm|
 
 <p style="margin-top:-1em;margin-bottom:2em;"><em><a href="{{site.baseurl}}/static/tips-tricks-sessions.ics">Download as calendar events (.ics).</a></em></p>
 
