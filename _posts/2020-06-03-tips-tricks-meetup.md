@@ -44,6 +44,6 @@ Slides and notes from past sessions are available.
 
 ## Join us
 
-_Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 260 UoA students and researchers already there!
+_Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 290 UoA students and researchers already there!
 
 <a href="https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>
