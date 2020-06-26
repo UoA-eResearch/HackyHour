@@ -26,7 +26,6 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
-| Python - tips and tricks I learnt during my PhD                   | 25 June 2020, 3 - 4pm|
 | Social media data scraping and wrangling - tips and tricks      | 9 July 2020, 3 - 4pm |
 | Generating publication-ready figures - tips and tricks           | 23 July 2020, 3 - 4pm|
 | NVIVO - overview                                                 | 6 August 2020, 3 - 4pm|
@@ -41,10 +40,11 @@ Slides and notes from past sessions are available.
 
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
+|[Python - tips and tricks I learnt during my PhD]({{site.baseurl}}/static/tipstricks/HackyHour%20-%20Python%20Tips%20&%20Tricks.pdf)                | 25 June 2020, 3 - 4pm|
 |[Argggh, my data! An overview of using OpenRefine to tidy up data]({{site.baseurl}}/static/tipstricks/2020-06-11-OpenRefine-intro-YW.pptx.pdf)| 11 June 2020, 3 - 4pm|
 
 ## Join us
 
-_Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 290 UoA students and researchers already there!
+_Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 300 UoA students and researchers already there!
 
 <a href="https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>
