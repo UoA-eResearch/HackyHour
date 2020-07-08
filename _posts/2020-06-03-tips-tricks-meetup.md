@@ -26,7 +26,7 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
-| **POSTPONED - presenter unwell** Social media data scraping and wrangling - tips and tricks       | ~9 July 2020, 3 - 4pm~ |
+| **POSTPONED - presenter unwell** Social media data scraping and wrangling - tips and tricks       | <s>9 July 2020, 3 - 4pm</s> |
 | Generating publication-ready figures - tips and tricks          | 23 July 2020, 3 - 4pm|
 | NVIVO - overview                                                 | 6 August 2020, 3 - 4pm|
 | Machine-learning - NVIDIA DIGITS - overview                      | 20 August 2020, 3 - 4pm|
