@@ -4,7 +4,7 @@ title:  "Tools, tips & tricks - a new series for Hacky Hour!"
 permalink: /tips-tricks-sessions/
 ---
 
-**22 June 2020: New sessions added!**
+**9 July 2020: Today's social media data session has been POSTPONED!**
 
 Kia ora!
 
@@ -26,8 +26,8 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
-| Social media data scraping and wrangling - tips and tricks      | 9 July 2020, 3 - 4pm |
-| Generating publication-ready figures - tips and tricks           | 23 July 2020, 3 - 4pm|
+| **POSTPONED - presenter unwell** Social media data scraping and wrangling - tips and tricks       | ~9 July 2020, 3 - 4pm~ |
+| Generating publication-ready figures - tips and tricks          | 23 July 2020, 3 - 4pm|
 | NVIVO - overview                                                 | 6 August 2020, 3 - 4pm|
 | Machine-learning - NVIDIA DIGITS - overview                      | 20 August 2020, 3 - 4pm|
 | Linux command line - tips and tricks                             | 3 September 2020, 3 - 4pm|
