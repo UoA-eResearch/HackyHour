@@ -4,8 +4,6 @@ title:  "Tools, tips & tricks - a new series for Hacky Hour!"
 permalink: /tips-tricks-sessions/
 ---
 
-**9 July 2020: Today's social media data session has been POSTPONED!**
-
 Kia ora!
 
 *Are you buried under a pile of messy research data?*
