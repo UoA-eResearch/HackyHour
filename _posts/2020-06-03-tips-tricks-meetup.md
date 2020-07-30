@@ -26,8 +26,6 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
-| Social media data scraping and wrangling - tips and tricks      | 9 July 2020, 3 - 4pm |
-| Generating publication-ready figures - tips and tricks           | 23 July 2020, 3 - 4pm|
 | NVIVO - overview                                                 | 6 August 2020, 3 - 4pm|
 | Machine-learning - NVIDIA DIGITS - overview                      | 20 August 2020, 3 - 4pm|
 | Linux command line - tips and tricks                             | 3 September 2020, 3 - 4pm|
@@ -40,11 +38,13 @@ Slides and notes from past sessions are available.
 
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
+| [Social media data scraping and wrangling - tips and tricks]({{site.baseurl}}/static/tipstricks/Social%20media%20data%20-%20tips%20and%20tricks.pdf)      | 30 July 2020, 3 - 4pm |
+| [Generating publication-ready figures - tips and tricks]({{site.baseurl}}/static/tipstricks/HackyHour%20-%20Publication%20Ready%20Figures.pdf)           | 23 July 2020, 3 - 4pm|
 |[Python - tips and tricks I learnt during my PhD]({{site.baseurl}}/static/tipstricks/HackyHour%20-%20Python%20Tips%20&%20Tricks.pdf)                | 25 June 2020, 3 - 4pm|
 |[Argggh, my data! An overview of using OpenRefine to tidy up data]({{site.baseurl}}/static/tipstricks/2020-06-11-OpenRefine-intro-YW.pptx.pdf)| 11 June 2020, 3 - 4pm|
 
 ## Join us
 
-_Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 300 UoA students and researchers already there!
+_Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 330 UoA students and researchers already there!
 
 <a href="https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>
