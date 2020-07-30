@@ -4,8 +4,6 @@ title:  "Tools, tips & tricks - a new series for Hacky Hour!"
 permalink: /tips-tricks-sessions/
 ---
 
-**22 June 2020: New sessions added!**
-
 Kia ora!
 
 *Are you buried under a pile of messy research data?*
