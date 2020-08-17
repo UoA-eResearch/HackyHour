@@ -24,7 +24,6 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
-| NVIVO - overview                                                 | 6 August 2020, 3 - 4pm|
 | Machine-learning - NVIDIA DIGITS - overview                      | 20 August 2020, 3 - 4pm|
 | Linux command line - tips and tricks                             | 3 September 2020, 3 - 4pm|
 | Qualtrics (survey tool) - overview                               | 17 September 2020, 3 - 4pm|
@@ -36,6 +35,7 @@ Slides and notes from past sessions are available.
 
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
+| [NVIVO - overview]({{site.baseurl}}/static/tipstricks/20200806%20Nvivo2.pdf)| 6 August 2020, 3 - 4pm|
 | [Social media data scraping and wrangling - tips and tricks]({{site.baseurl}}/static/tipstricks/Social%20media%20data%20-%20tips%20and%20tricks.pdf)      | 30 July 2020, 3 - 4pm |
 | [Generating publication-ready figures - tips and tricks]({{site.baseurl}}/static/tipstricks/HackyHour%20-%20Publication%20Ready%20Figures.pdf)           | 23 July 2020, 3 - 4pm|
 |[Python - tips and tricks I learnt during my PhD]({{site.baseurl}}/static/tipstricks/HackyHour%20-%20Python%20Tips%20&%20Tricks.pdf)                | 25 June 2020, 3 - 4pm|
