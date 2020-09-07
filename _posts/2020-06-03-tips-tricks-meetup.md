@@ -24,7 +24,6 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 
 |Time                 | Topic                                                            | 
 |----------------------|------------------------------------------------------------------|
-| 3 September 2020, 3 - 4pm| **Linux command line - tips and tricks**<br>Anita Kean from the [Centre for eResearch](https://www.eresearch.auckland.ac.nz/) will talk through some tools available on the Bash commandline, a text-based user interface common in Linux, that will help you wrangle your scripts and research data. Her talk will cover redirection, working with pipes, parsing data from pipelines and files, and the sed tool. We will then have time for discussion - feel free bring your Bash questions or problems, no matter how basic. All welcome! |
 | 17 September 2020, 3 - 4pm| **Qualtrics (survey tool) - overview**<br>Details to be announced.                               |
 
 <p style="margin-top:-1em;margin-bottom:2em;"><em><a href="{{site.baseurl}}/static/tips-tricks-sessions.ics">Download as calendar events (.ics).</a></em></p>
@@ -34,6 +33,7 @@ Slides and notes from past sessions are available.
 
 |                                                                  | Time                 |
 |------------------------------------------------------------------|----------------------|
+| [Linux command line - tips and tricks]({{site.baseurl}}/static/tipstricks/Linux_command_line_introduction.pdf)    | 3 September 2020, 3 - 4pm |
 | [Machine-learning - NVIDIA DIGITS - overview]({{site.baseurl}}/static/tipstricks/HackyHour%20ML.pdf)                      | 20 August 2020, 3 - 4pm|
 | [NVIVO - overview]({{site.baseurl}}/static/tipstricks/20200806%20Nvivo2.pdf)| 6 August 2020, 3 - 4pm|
 | [Social media data scraping and wrangling - tips and tricks]({{site.baseurl}}/static/tipstricks/Social%20media%20data%20-%20tips%20and%20tricks.pdf)      | 30 July 2020, 3 - 4pm |
@@ -43,6 +43,6 @@ Slides and notes from past sessions are available.
 
 ## Join us
 
-_Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 340 UoA students and researchers already there!
+_Interested in hearing about future sessions, volunteering to present, suggesting a topic or simply joining the Hacky Hour community to ask questions, connect with others, and share your experience?_ Sign-up to the Hacky Hour@Auckland Slack chat room. It's an active community with more than 350 UoA students and researchers already there!
 
 <a href="https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>
