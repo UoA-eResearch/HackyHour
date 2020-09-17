@@ -24,7 +24,7 @@ There's no need to register, just come along by going to the [Hacky Hour@Aucklan
 
 |Time                 | Topic                                                            | 
 |----------------------|------------------------------------------------------------------|
-| 17 September 2020, 3 - 4pm| **Qualtrics (survey tool) - overview**<br>Details to be announced.                               |
+| 17 September 2020, 3 - 4pm| **Qualtrics (survey tool) - overview**<br>Yvette Wharton from the Centre for eResearch will take us through an overview of the Qualtrics survey platform. This will include how you can access the University of Auckland’s Qualtrics platform, a quick overview of creating and sharing a survey, understanding questions types and options such as block grouping, default choices, logic to show/hide questions, and downloading your survey.                               |
 
 <p style="margin-top:-1em;margin-bottom:2em;"><em><a href="{{site.baseurl}}/static/tips-tricks-sessions.ics">Download as calendar events (.ics).</a></em></p>
 
