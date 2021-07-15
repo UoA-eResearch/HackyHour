@@ -4,7 +4,9 @@ title:  "Tools, tips & tricks sessions"
 permalink: /tips-tricks-sessions/
 ---
 
-Tools, Tips and Tricks sessions have finished for 2020 and you can find slides from presentations below. We're working on some new ideas! Stay tuned by joining our [Slack channel](https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ).
+Tools, Tips and Tricks sessions have finished for 2020 and you can find slides from presentations below. We're working on some new ideas! Stay tuned by joining our Slack channel.
+
+<a href="https://join.slack.com/t/uoacer/shared_invite/zt-enicnt85-LeufP7kQxPL0r1L2r3MxvQ" style="border: 1px solid purple;padding: 0.75em;display: inline-block;background-color: #860086;color: white;font-weight: bolder;border-radius: 4px;">Join Hacky Hour@Auckland Slack</a>
 
 
 ## Upcoming sessions
