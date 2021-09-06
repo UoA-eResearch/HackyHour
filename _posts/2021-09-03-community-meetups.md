@@ -7,7 +7,7 @@ permalink: /2021-sessions/
 HackyHour sessions is back for 2021! Come to our themed sessions and hear how researchers from across the University are using digital tools to collect and analyse their datasets. Meet other researchers working on the same field, and tell us what digital skills you would like to learn. Good food and vibes will be provided (Covid-19 Alert Level permitting), stay on afterwards for a casual time in the common room!
 
 ## Upcoming sessions
-RSVP for the sessions and other upskilling events on the digital research skills training programme page on Centre for eResearch's page.
+RSVP for the sessions and other upskilling events on Centre for eResearch's website.
 
 <a href="https://www.eresearch.auckland.ac.nz/digital-skills-2021/" style="padding: 0.75em;display: inline-block;background-color: rgb(16, 89, 138);color: white;font-weight: bolder;border-radius: 4px;">Explore 2021 digital research skills events</a>
 
